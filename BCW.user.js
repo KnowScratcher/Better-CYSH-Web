@@ -6,6 +6,10 @@
 // @author       Know Scratcher
 // @match        https://www.cysh.cy.edu.tw/
 // @icon         https://upload.wikimedia.org/wikipedia/zh/3/3d/%E5%98%89%E7%BE%A9%E9%AB%98%E4%B8%ADlogo.png?20211008122218
+// @updateURL    https://github.com/KnowScratcher/Better-CYSH-Web/raw/refs/heads/main/BCW.user.js
+// @downloadURL  https://github.com/KnowScratcher/Better-CYSH-Web/raw/refs/heads/main/BCW.user.js
+// @homepage     https://github.com/KnowScratcher/Better-CYSH-Web
+// @homepageURL  https://github.com/KnowScratcher/Better-CYSH-Web
 // ==/UserScript==
 
 (function() {
